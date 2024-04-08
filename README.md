@@ -444,7 +444,7 @@ members: [
       hobby: ["英会話", "筋トレ", "猫"],
       github: "wiskerpaddy"
     }
-  }
+  },
   {
     YANYAN: {
       bio: "遅くとも、今年の秋までにエンジニア転職決めたい人",
