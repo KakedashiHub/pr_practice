@@ -445,5 +445,12 @@ members: [
       github: "wiskerpaddy"
     }
   }
+  {
+    YANYAN: {
+      bio: "遅くとも、今年の秋までにエンジニア転職決めたい人",
+      hobby: ["オンラインゲーム","ボードゲーム","街歩き"],
+      github: "yan-cyber-ux"
+    }
+  }
 ]
 ```
