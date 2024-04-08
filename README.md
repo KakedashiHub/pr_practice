@@ -451,6 +451,6 @@ members: [
       hobby: ["オンラインゲーム","ボードゲーム","街歩き"],
       github: "yan-cyber-ux"
     }
-  }
+  },
 ]
 ```
